@@ -1,9 +1,8 @@
 # 🔧 Machine Failure Prediction Using Machine Learning
 
-[![GitHub stars](https://img.shields.io/github/stars/ISR-Labs/machine-failure-predication?style=social)](https://github.com/ISR-Labs/machine-failure-predication/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ISR-Labs/machine-failure-predication?style=social)](https://github.com/ISR-Labs/machine-failure-predication/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/ISR-Labs/machine-failure-predication)](https://github.com/ISR-Labs/machine-failure-predication/issues)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/https://github.com/IndrasenaReddy165/machine-failure-predication-?style=social)](https://github.com/https://github.com/IndrasenaReddy165/machine-failure-predication-/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/https://github.com/IndrasenaReddy165/machine-failure-predication-?style=social)](https://github.com/https://github.com/IndrasenaReddy165/machine-failure-predication-/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/[(https://github.com/IndrasenaReddy165/machine-failure-predication-))](https://github.com/https://github.com/IndrasenaReddy165/machine-failure-predication-/issues)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 
 ## 📋 Table of Contents
