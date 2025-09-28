@@ -29,9 +29,9 @@ This project develops a comprehensive **predictive maintenance system** using ma
 - **96.7% Failure Detection Rate** - Only 3 missed failures out of 92 total
 - **50-80% Downtime Reduction Potential** - Significant operational improvement
 - **$2.5M-$4M Annual Savings** per facility through preventive maintenance
+<img width="1541" height="849" alt="Screenshot (205)" src="https://github.com/user-attachments/assets/d16d868d-c288-4b6d-a102-e07dafeadb16" />
 
-![Project Banner](<img width="1541" height="849" alt="Screenshot (205)" src="https://github.com/user-attachments/assets/2ac1a99c-8e02-48ed-b6a7-12d3d999ba48" />
-)
+
 
 ## 🔬 Dataset Information
 
