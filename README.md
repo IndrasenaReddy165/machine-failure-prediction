@@ -29,7 +29,8 @@ This project develops a comprehensive **predictive maintenance system** using ma
 - **96.7% Failure Detection Rate** - Only 3 missed failures out of 92 total
 - **50-80% Downtime Reduction Potential** - Significant operational improvement
 - **$2.5M-$4M Annual Savings** per facility through preventive maintenance
-<img width="1541" height="849" alt="Screenshot (205)" src="https://github.com/user-attachments/assets/d16d868d-c288-4b6d-a102-e07dafeadb16" />
+<img width="1531" height="850" alt="image" src="https://github.com/user-attachments/assets/cd9dfa55-3af8-4c36-bbf0-0b714db7a7ed" />
+
 
 
 
@@ -54,7 +55,7 @@ This project develops a comprehensive **predictive maintenance system** using ma
 | **IP** | Input Parameters | System inputs |
 | **Temperature** | Direct thermal readings | Thermal monitoring |
 
-![Dataset Distribution](images/dataset-distribution.png)
+<img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/af79df2b-44f7-435c-9de4-4fd5075a4306" />
 
 ## 🧪 Methodology
 
@@ -68,7 +69,8 @@ This project develops a comprehensive **predictive maintenance system** using ma
 - **Distribution Analysis**: Class balance verification
 - **Pattern Recognition**: Failure indicator identification
 
-![Correlation Heatmap](images/correlation-heatmap.png)
+<img width="1920" height="1080" alt="Screenshot 2025-09-05 230617" src="https://github.com/user-attachments/assets/7d58d626-1dbc-4319-a666-588a31b23a77" />
+
 
 ### 3. Model Development
 Implemented and compared three machine learning algorithms:
