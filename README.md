@@ -33,7 +33,6 @@ This project develops a comprehensive **predictive maintenance system** using ma
 
 
 
-
 ## 🔬 Dataset Information
 
 ### Data Overview
@@ -69,7 +68,7 @@ This project develops a comprehensive **predictive maintenance system** using ma
 - **Distribution Analysis**: Class balance verification
 - **Pattern Recognition**: Failure indicator identification
 
-<img width="1920" height="1080" alt="Screenshot 2025-09-05 230617" src="https://github.com/user-attachments/assets/7d58d626-1dbc-4319-a666-588a31b23a77" />
+<img width="842" height="528" alt="image" src="https://github.com/user-attachments/assets/26bed139-e647-4b40-a797-5ab8a1b3efbf" />
 
 
 ### 3. Model Development
@@ -98,8 +97,9 @@ Implemented and compared three machine learning algorithms:
 📊 Specificity: 92.3%
 ⚠️ False Positive Rate: 7.7%
 ### Confusion Matrix Results
-             PREDICTED
-           Normal  Failure
+                                             Actual               PREDICTED wrongly       
+                                         Normal  Failure          Normal  Failure
+                                          119      89               10       3
 
 **Interpretation:**
 - **119 True Negatives**: Correctly identified healthy machines
@@ -107,7 +107,7 @@ Implemented and compared three machine learning algorithms:
 - **10 False Positives**: Unnecessary maintenance alerts (acceptable)
 - **3 False Negatives**: Missed failures (critically low)
 
-![Confusion Matrix](images/confusion-matrix.png)
+<img width="649" height="547" alt="image" src="https://github.com/user-attachments/assets/97e42d26-6d38-4fdd-bf3f-e053e3eaf74a" />
 
 ## 🛠️ Installation
 
@@ -116,7 +116,7 @@ Implemented and compared three machine learning algorithms:
 - pip package manager
 
 ### Clone Repository
-git clone https://github.com/ISR-Labs/machine-failure-predication.git
+git clone (https://github.com/IndrasenaReddy165/machine-failure-predication)
 cd machine-failure-predication
 ### Install Dependencies
 pip install -r requirements.txt
@@ -166,7 +166,7 @@ jupyter notebook analysis/Machine_Failure_Analysis.ipynb
 ### Feature Importance Analysis
 The model identified **VOC (Volatile Organic Compounds)** as the most critical failure predictor:
 
-![Feature Importance](images/feature-importance.png)
+<img width="855" height="547" alt="image" src="https://github.com/user-attachments/assets/fbacffa2-046b-48c6-8496-13c34ec6cb04" />
 
 ### Key Findings:
 1. **VOC**: Primary predictor (2x more important than others)
@@ -175,7 +175,7 @@ The model identified **VOC (Volatile Organic Compounds)** as the most critical f
 4. **Temperature**: Thermal stress indicator
 
 ### Model Comparison Results
-![Model Comparison](images/model-comparison.png)
+<img width="1504" height="853" alt="image" src="https://github.com/user-attachments/assets/e4276ed3-fa1a-444f-99f7-35b1c6a0e4c2" />
 
 ## 🔍 Model Comparison
 
@@ -240,7 +240,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ### Development Setup
 Clone repository
-git clone https://github.com/ISR-Labs/machine-failure-predication.git
+git clone (https://github.com/IndrasenaReddy165/machine-failure-predication)
 
 Create virtual environment
 python -m venv venv
@@ -274,7 +274,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 🎓 Electronics and Communication Engineering Student, NIT Srinagar
 - 📧 Email: [dirisinalaindrasenareddy127@gmail.com](mailto:dirisinalaindrasenareddy127@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/indrasenareddydirisinala](https://www.linkedin.com/in/indrasenareddydirisinala/)
-- 🐙 GitHub: [@ISR-Labs](https://github.com/ISR-Labs)
+- 🐙 GitHub: (https://github.com/IndrasenaReddy165/machine-failure-predication)
 
 ### 🏢 Internship Context
 This project was developed during my **Data Analytics Internship** at **Launched Global** (July - September 2025) under the supervision of **Meghana Gowda**.
@@ -283,7 +283,7 @@ This project was developed during my **Data Analytics Internship** at **Launched
 
 ### 📊 Project Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=ISR-Labs&repo=machine-failure-predication&theme=default)
+![GitHub Stats](https://github.com/IndrasenaReddy165/machine-failure-predication)
 
 ### 💡 If you found this project helpful, please consider giving it a ⭐!
 
